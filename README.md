@@ -1,3 +1,5 @@
+# This is a to-do list React app where users can add items, check completed items, and clear completed items.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
